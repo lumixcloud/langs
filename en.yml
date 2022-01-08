@@ -1,18 +1,11 @@
 skins-prefix: 'Skins'
 skins-use: 'Use <sc>/skin <skin name><w>, to change your skin!'
 skins-update: 'Your skin will be updated after you rejoin the server!'
-
 lang-prefix: 'Language'
 lang-use: 'Use <sc>/lang <ru/en><w>, to change language!'
 lang-update: 'You changed the language to <sc><lang><w>!'
 lang-not-found: '<e>The specified language was not found.!'
-
-item:
-  gameselector: '&aGame selection'
-
-menu:
-  gameselector: 'Choose a game'
-
-tablist:
-  up: '\n&b&lLUMIXCLOUD&r\n&7lumixcloud.net&r\n'
-  down: '\n§fCurrent server: §7<server>§r\n§fOnline community: §7<online>\n'
+item-gameselector: '&aGame selection'
+menu-gameselector: 'Choose a game'
+tablist-up: '\n&b&lLUMIXCLOUD&r\n&7lumixcloud.net&r\n'
+tablist-down: '\n§fCurrent server: §7<server>§r\n§fOnline community: §7<online>\n'
