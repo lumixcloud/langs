@@ -1,18 +1,11 @@
 skins-prefix: 'Скины'
 skins-use: 'Используйте <sc>/skin <имя скина><w>, чтобы изменить ваш скин!'
 skins-update: 'Ваш скин будет обновлен после перезахода на сервер!'
-
 lang-prefix: 'Языки'
 lang-use: 'Используйте <sc>/lang <ru/en><w>, чтобы изменить язык!'
 lang-update: 'Вы изменили язык на <sc><lang><w>!'
 lang-not-found: '<e>Указанный язык не найден!'
-
-item:
-  gameselector: '&aВыбор режима'
-
-menu:
-  gameselector: 'Выберите режим'
-
-tablist:
-  up: '\n&b&lLUMIXCLOUD&r\n&7lumixcloud.net&r\n'
-  down: '\n§fТекущий сервер: §7<server>§r\n§fОнлайн проекта: §7<online>\n'
+item-gameselector: '&aВыбор режима'
+menu-gameselector: 'Выберите режим'
+tablist-up: '\n&b&lLUMIXCLOUD&r\n&7lumixcloud.net&r\n'
+tablist-down: '\n§fТекущий сервер: §7<server>§r\n§fОнлайн проекта: §7<online>\n'
