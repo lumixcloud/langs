@@ -1,0 +1,3 @@
+skins-prefix: 'Skins'
+skins-use: '&rUse <c>/skin <skin name>&r, to change your skin!'
+skins-update: '&eYour skin will be updated after you rejoin the server!'
